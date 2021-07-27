@@ -1,1 +1,1 @@
-# to-do-list-genskill
+# Weekly Schedule Manager
