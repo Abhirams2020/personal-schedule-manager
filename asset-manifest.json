@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weekly-schedule-manager/static/css/main.1e1ce40e.chunk.css",
+    "main.js": "/weekly-schedule-manager/static/js/main.767072cc.chunk.js",
+    "main.js.map": "/weekly-schedule-manager/static/js/main.767072cc.chunk.js.map",
+    "runtime-main.js": "/weekly-schedule-manager/static/js/runtime-main.23204a0d.js",
+    "runtime-main.js.map": "/weekly-schedule-manager/static/js/runtime-main.23204a0d.js.map",
+    "static/js/2.e93d6345.chunk.js": "/weekly-schedule-manager/static/js/2.e93d6345.chunk.js",
+    "static/js/2.e93d6345.chunk.js.map": "/weekly-schedule-manager/static/js/2.e93d6345.chunk.js.map",
+    "index.html": "/weekly-schedule-manager/index.html",
+    "static/css/main.1e1ce40e.chunk.css.map": "/weekly-schedule-manager/static/css/main.1e1ce40e.chunk.css.map",
+    "static/js/2.e93d6345.chunk.js.LICENSE.txt": "/weekly-schedule-manager/static/js/2.e93d6345.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23204a0d.js",
+    "static/js/2.e93d6345.chunk.js",
+    "static/css/main.1e1ce40e.chunk.css",
+    "static/js/main.767072cc.chunk.js"
+  ]
+}
