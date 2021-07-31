@@ -1,0 +1,18 @@
+DROP TABLE IF EXISTS user;
+DROP TABLE IF EXISTS tasks;
+
+CREATE TABLE user (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  username TEXT UNIQUE NOT NULL,
+  password TEXT NOT NULL
+);
+
+CREATE TABLE tasks(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  author_id INTEGER NOT NULL,
+  due_time TIME NOT NULL,
+  due_date DATE NOT NULL,
+  task_name TEXT NOT NULL,
+  task_desc TEXT NOT NULL,
+  FOREIGN KEY (author_id) REFERENCES user (id)
+);
