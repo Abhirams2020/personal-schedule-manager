@@ -1,11 +1,11 @@
 # Personal Schedule Manager
 
-This is a basic web app for managing schedules which notifies when task needs to be done. This was done as a part of Genskill Fullstack Bootcamp. 
+This is a web app for managing schedules which notifies when task needs to be done. The features include user registration, setting time and date of task. Currently working on adding notification support to the app. This was done as a part of Genskill Fullstack Bootcamp. 
 
 The following tools were used to create this project : 
 
 
-Python
+Python - Flask, SQLite
 
 CSS
 
